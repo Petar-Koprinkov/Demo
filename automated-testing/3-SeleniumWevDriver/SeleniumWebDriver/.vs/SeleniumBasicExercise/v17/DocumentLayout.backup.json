@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u043E\u043F\u0440\u0438\u043D\u043A\u043E\u0432\\Software-Engineering-and-DevOps\\automated-testing\\3-SeleniumWevDriver\\SeleniumWebDriver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C44FDB80-C125-4C45-9E43-0BC12975199F}|TestProject1\\TestProject1.csproj|c:\\users\\\u043A\u043E\u043F\u0440\u0438\u043D\u043A\u043E\u0432\\software-engineering-and-devops\\automated-testing\\3-seleniumwevdriver\\seleniumwebdriver\\testproject1\\testcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44FDB80-C125-4C45-9E43-0BC12975199F}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6BD2572-D4A3-469C-8E74-F5581E6B2771}|TestProject3\\TestProject3.csproj|c:\\users\\\u043A\u043E\u043F\u0440\u0438\u043D\u043A\u043E\u0432\\software-engineering-and-devops\\automated-testing\\3-seleniumwevdriver\\seleniumwebdriver\\testproject3\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6BD2572-D4A3-469C-8E74-F5581E6B2771}|TestProject3\\TestProject3.csproj|solutionrelative:testproject3\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u043F\u0440\u0438\u043D\u043A\u043E\u0432\\Software-Engineering-and-DevOps\\automated-testing\\3-SeleniumWevDriver\\SeleniumWebDriver\\TestProject1\\TestCalculator.cs",
+              "RelativeDocumentMoniker": "TestProject1\\TestCalculator.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u043F\u0440\u0438\u043D\u043A\u043E\u0432\\Software-Engineering-and-DevOps\\automated-testing\\3-SeleniumWevDriver\\SeleniumWebDriver\\TestProject1\\TestCalculator.cs*",
+              "RelativeToolTip": "TestProject1\\TestCalculator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:01:13.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DropDown.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u043E\u043F\u0440\u0438\u043D\u043A\u043E\u0432\\Software-Engineering-and-DevOps\\automated-testing\\3-SeleniumWevDriver\\SeleniumWebDriver\\TestProject3\\DropDown.cs",
+              "RelativeDocumentMoniker": "TestProject3\\DropDown.cs",
+              "ToolTip": "C:\\Users\\\u041A\u043E\u043F\u0440\u0438\u043D\u043A\u043E\u0432\\Software-Engineering-and-DevOps\\automated-testing\\3-SeleniumWevDriver\\SeleniumWebDriver\\TestProject3\\DropDown.cs",
+              "RelativeToolTip": "TestProject3\\DropDown.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:59:59.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
